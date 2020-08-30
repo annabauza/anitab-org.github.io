@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5ecd60fb.chunk.css",
+    "main.js": "./static/js/main.c2467fe5.chunk.js",
+    "main.js.map": "./static/js/main.c2467fe5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ca864eed.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ca864eed.js.map",
+    "static/js/2.8a3722d2.chunk.js": "./static/js/2.8a3722d2.chunk.js",
+    "static/js/2.8a3722d2.chunk.js.map": "./static/js/2.8a3722d2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5141aa2111f4fa296e264e6a19c3eae6.js": "./precache-manifest.5141aa2111f4fa296e264e6a19c3eae6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "./static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8a3722d2.chunk.js.LICENSE.txt": "./static/js/2.8a3722d2.chunk.js.LICENSE.txt",
+    "static/media/contribute.png": "./static/media/contribute.552c3589.png",
+    "static/media/linkedin-logo.png": "./static/media/linkedin-logo.5a653ec3.png",
+    "static/media/logo.png": "./static/media/logo.45cc4ce0.png",
+    "static/media/our-projects.png": "./static/media/our-projects.b19b61ad.png",
+    "static/media/placeholder.png": "./static/media/placeholder.66c6a83d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca864eed.js",
+    "static/js/2.8a3722d2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c2467fe5.chunk.js"
+  ]
+}
